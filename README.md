@@ -1,1 +1,1 @@
-### end to end nedical chatbot using Llama2
+### end to end medical chatbot using Llama2
